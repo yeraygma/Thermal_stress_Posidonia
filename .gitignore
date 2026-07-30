@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Data
+data/
+
+#renv cache (not neccesary in the repo)
+renv/library/
+renv/staging/
+
+
+
+models/*.rds
+outputs/rasters/*.tif
+data/raw/posidonia_total_baleares.geojson
+data/raw/posidonia_total_baleares_valida.geojson

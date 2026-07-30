@@ -1,0 +1,20 @@
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+delta_pct_yr ~ s(dhd_accumulated, k = 3) + s(id_pradera, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)
+(Intercept)   0.7906     2.5274   0.313    0.755
+
+Approximate significance of smooth terms:
+                        edf Ref.df     F p-value  
+s(dhd_accumulated) 0.792011      2 1.904  0.0317 *
+s(id_pradera)      0.002421     33 0.000  0.5204  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.0509   Deviance explained = 6.15%
+-REML = 321.32  Scale est. = 459.88    n = 72
