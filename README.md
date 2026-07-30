@@ -1,13 +1,15 @@
-# Accumulated Thermal Stress Traffic Light (DHD) for *Posidonia oceanica* Meadows in the Balearic Islands
+# A Replicable Framework and Open Tool for Assessing Thermal Stress (DHD) in Seagrass Meadows: *Posidonia oceanica* in Balearic Islands Case Study
 
 [![Read Final Report DHD Posidonia](https://img.shields.io/badge/Read_Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/yeraygma/Thermal_stress_Posidonia/main/docs/report_DHD_Posidonia.pdf)
 
 
-## Project Description
+## Project Overview & Objective
 
-This repository contains the complete R analysis pipeline for the thermal stress indicator on *Posidonia oceanica* in the Balearic Islands.
+The primary objective of this study is to establish empirically calibrated ecological thresholds for marine heatwaves and assess the spatial vulnerability of *Posidonia oceanica* meadows to cumulative thermal stress. 
 
-The indicator integrates satellite remote sensing data, official benthic cartography, and in situ empirical calibration to quantify the accumulated physiological stress exerted by thermal anomalies on *Posidonia oceanica* meadows. Using a Generalised Additive Mixed Model (GAMM) with a scaled t-distribution, two operational management thresholds are identified: the alert threshold (4.9 DHD) and the critical threshold for net regression (5.6 DHD). These thresholds enable the spatial classification of the meadows into three states of thermal vulnerability.
+To achieve this, this repository provides a complete, open-source R analytical pipeline and transferable workflow. The framework integrates satellite remote sensing data, official benthic cartography, and *in situ* empirical calibration to quantify the physiological stress exerted by thermal anomalies (Degree Heating Days - DHD) on seagrass ecosystems, as demonstrated through a comprehensive case study in the Balearic Islands.
+
+By applying a Generalised Additive Mixed Model (GAMM) with a scaled *t*-distribution, the methodology identifies two key operational management thresholds: an alert threshold (4.9 DHD) and a critical threshold associated with net meadow regression (5.6 DHD). These thresholds enable the spatial classification of *Posidonia oceanica* meadows into distinct thermal vulnerability levels, offering an operational tool for marine spatial planning, climate adaptation, and conservation decision-making.
 
 
 
