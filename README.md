@@ -1,6 +1,7 @@
 # A Replicable Framework and Open Tool for Assessing Thermal Stress (DHD) in Seagrass Meadows: *Posidonia oceanica* in Balearic Islands Case Study
 
 [![DOI](https://zenodo.org/badge/1291392120.svg)](https://doi.org/10.5281/zenodo.21706069)
+
 [![Read Final Report DHD Posidonia](https://img.shields.io/badge/Read_Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/yeraygma/Thermal_stress_Posidonia/main/docs/report_DHD_Posidonia.pdf)
 
 
