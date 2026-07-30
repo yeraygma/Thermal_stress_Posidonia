@@ -1,6 +1,6 @@
 # Accumulated Thermal Stress Traffic Light (DHD) for *Posidonia oceanica* Meadows in the Balearic Islands
 
-[![Read Final Report DHD Posidonia](https://img.shields.io/badge/Read_Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/yeraygma/Thermal_stress_Posidonia/main/documents/report_DHD_Posidonia.pdf)
+[![Read Final Report DHD Posidonia](https://img.shields.io/badge/Read_Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/yeraygma/Thermal_stress_Posidonia/main/docs/report_DHD_Posidonia.pdf)
 
 
 ## Project Description
